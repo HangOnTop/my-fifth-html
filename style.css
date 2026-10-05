@@ -1,0 +1,284 @@
+body {
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+}
+
+.font-style{
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #333333
+}
+
+.font-style1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333
+}
+
+.font-style2{
+    font-family: "Be Vietnam Pro", sans-serif;
+    color: #333333;
+}
+/* Phan dau trang  */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+.Logocard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 200px;
+    height: 60px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Menucard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 820px;
+    height: 34px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Buttoncard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 120px;
+    height: 42px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Phan 2 cua trang */
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+    height: 680px;
+    background-color: #F1F1F1;
+    margin-top: 33px;
+}
+
+.Contentcard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 585px;
+    height: 267px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Imagecard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 585px;
+    height: 520px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Phan 3 cua trang  */
+.section3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Ap dung cho may thang duoi duoc ve khoang cach */
+.Titlecard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 600px;
+    height: 80px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.Itemlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    }
+
+.Itemcard{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 380px;
+    height: 420px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Phan 4 cua trang */
+
+.section{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.section4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F1F1F1;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+.Itemlist_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    }
+
+.Itemcard_1{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 216px;
+    height: 300px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Phan 5 cua trang*/
+.Itemcard_2{
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    background-color: #E2E2E2;
+    padding: 8px 16px;
+    width: 277.5px;
+    height: 300px;
+    box-sizing: border-box;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Lay lai section3 cua trang 3*/
+/* Dung lai section cua trang 4*/
+/* Dung lai Itemlist_1 cua trang 4*/
+
+/*Footer*/
+.section6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D9D9D9;
+    width: 1,366;
+    height: 72px;
+
+    margin-top: 80px;
+}
+
+footer{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
